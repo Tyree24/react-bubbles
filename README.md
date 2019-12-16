@@ -46,11 +46,11 @@ specific server (computer) via a URL and domain name, and the server (program)
 
 - [ ] Which HTTP methods can be mapped to the CRUD acronym that we use when interfacing with APIs/Servers.
 
-C - POST
+  C - POST
   R - GET
   U - PUT
   D - DELETE
-  
+
 ## Project Set Up
 
 Follow these steps to set up and work on your project:
